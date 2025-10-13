@@ -1,0 +1,1 @@
+# Volatility-Modelling-of-the-JSE-Top40-Index-Assessing-the-GAS-Framework-Against-Hybrid-GARCH
